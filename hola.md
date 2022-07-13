@@ -1,4 +1,4 @@
 # clase2
 Probando crear un repo
 
-Agrego una linea
+Agrego un readme
